@@ -1,0 +1,17 @@
+# ignore build dir
+build/
+
+# ignore bin dir
+bin/
+
+# ignore config dir
+config/
+
+# ignore lib dir
+lib/
+
+# ignore text files
+*.txt
+
+# ignore json files
+*.json
